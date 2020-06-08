@@ -1,0 +1,1 @@
+dataset klasörü içerisinde kameradan elde edilen görüntülerin kaydedilmesi işlemi yapılmaktadır.
